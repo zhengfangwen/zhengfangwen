@@ -6,9 +6,6 @@ I'm interested in what statistical physics and information theory can say about
 learning systems — and more generally in problems where probability does the
 heavy lifting.
 
-**Now:** summer research at Westlake University on the physics of AI.
-
-**Also thinking about:** quantum foundations · statistical and solid-state physics ·
-dark matter detection · probability and combinatorics
+Status: Single (Open to contributions / Open-source heart)
 
 **Contact:** fangwen [at] u.nus.edu
