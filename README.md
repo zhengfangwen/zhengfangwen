@@ -1,4 +1,4 @@
-# Fangwen ZHENG 郑方闻
+# Fangwen ZHENG (郑方闻)
 
 Physics undergraduate at the National University of Singapore, minoring in Computing.
 
