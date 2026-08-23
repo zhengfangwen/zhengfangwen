@@ -6,6 +6,7 @@ I'm now interested in what statistical physics and information theory can say ab
 learning systems — and more generally in problems where probability does the
 heavy lifting.
 
-**Status:** Single (Open to contributions / Open-source heart)
+* **Contact:** zhengfangwen [at] outlook.sg
+* **Status:** Waiting for someone who tolerates and appreciates my style and bugs.
 
-**Contact:** zhengfangwen [at] outlook.sg
+
