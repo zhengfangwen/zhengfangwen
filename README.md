@@ -9,6 +9,6 @@ heavy lifting.
 
 Deterministic universe or not, indeterminacy that emerges grants us free will and life wonders. 
 
-Awaiting for someone who tolerates and appreciates my style and bugs.
+Awaiting someone who tolerates and appreciates my style and bugs.
 
 **Contact:** zhengfangwen [at] outlook.sg
