@@ -6,6 +6,7 @@ I'm now interested in what statistical physics and information theory can say ab
 learning systems — and more generally in problems where probability does the
 heavy lifting.
 
+
 Deterministic universe or not, indeterminacy that emerges grants us free will and life wonders. 
 
 Awaiting for someone who tolerates and appreciates my style and bugs.
