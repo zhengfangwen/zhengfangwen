@@ -2,7 +2,7 @@
 
 Physics undergraduate at National University of Singapore, minoring in Computing.
 
-Deterministic universe or not, indeterminacy that emerges grants us free will and life wonders. I'm now interested in what statistical physics and information theory can say about
+I'm now interested in what statistical physics and information theory can say about
 learning systems — and more generally in problems where probability does the
 heavy lifting.
 
